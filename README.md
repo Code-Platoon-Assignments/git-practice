@@ -24,9 +24,11 @@ Create a local git repository and get familiar with some of the essential sub-co
 
 > Remember, use `git status` between `git` commands to get a sense of what you just did and whether you and `git` are on the same page.
 
-6. Use `git log` to confirm your commit was recorded
+6. Use `git commit -m "<I_AM_GOING_TO_WRITE_MY_OWN_COMMIT_MESSAGE_HERE>"` to commit your staged changes.
 
-7. Create some more changes (any you want, new files or changing existing ones, `git` only cares that there are changes) and make another commit. Confirm again with `git log`
+7. Use `git log` to confirm your commit was recorded
+
+8. Create some more changes (any you want, new files or changing existing ones, `git` only cares that there are changes) and make another commit. Confirm again with `git log`
 
 #### Part 2: Create a feature branch
 
